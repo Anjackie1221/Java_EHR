@@ -1,0 +1,2 @@
+Electronic Health Records is one of the most innovative items in recent healthcare systems. It enbales the digitization of health records of patients to be shared easily using computer systemns among care providers to facilitate better patient care.
+So in this project, we will be facilitate the creation of patients' health records during their first time of hospital visit.
